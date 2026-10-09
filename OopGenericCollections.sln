@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopGenericCollections", "OopGenericCollections\OopGenericCollections.csproj", "{FDC237EA-6AD5-4A22-82B6-E13C60FB0714}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDC237EA-6AD5-4A22-82B6-E13C60FB0714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC237EA-6AD5-4A22-82B6-E13C60FB0714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDC237EA-6AD5-4A22-82B6-E13C60FB0714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC237EA-6AD5-4A22-82B6-E13C60FB0714}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
